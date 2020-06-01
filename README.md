@@ -4,6 +4,14 @@ This tool combines two algorithms to accurately detect people who are violating 
 - Facebook/Detectron2 (Faster RCNN implementation)`https://github.com/facebookresearch/detectron2`
 - "Digging into Self-Supervised Monocular Depth Prediction" `https://github.com/nianticlabs/monodepth2`
 
+Starter code taken from an excellent tutorial from Aravind Pai:
+`https://www.analyticsvidhya.com/blog/2020/05/social-distancing-detection-tool-deep-learning/`
+
+Use:
+```
+Social-Distance-Tool-with-Depth.ipynb
+```
+
 **Input:**
 - A video sequence
 
