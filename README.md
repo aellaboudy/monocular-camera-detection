@@ -18,6 +18,15 @@ Use:
 Social-Distance-Tool-with-Depth.ipynb
 ```
 
+**Libraries needed:**
+- Detectron2 = 0.13
+- OpenCV >= 3
+- Matplotlib
+- tqdm
+- pytorch = 1.4
+- torchvision = 0.4
+
+
 **Input:**
 - A video sequence
 
