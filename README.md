@@ -1,4 +1,4 @@
-# Social Distance Tool with depth
+# Monocular camera detection
 
 <p align="center">
   <img src="assets/sample_output.gif" alt="example input output gif" width="600" />
